@@ -14,7 +14,7 @@
 
 <br>
 
-| 🍎 | **Impacto Social:** | [cite_start]*Herramienta diseñada para estudiantes, enfocada en la prevención de enfermedades relacionadas con la mala alimentación.* [cite: 6, 7] |
+| 🍎 | **Impacto Social:** | *Herramienta diseñada para estudiantes, enfocada en la prevención de enfermedades relacionadas con la mala alimentación.* |
 |--|-------------|:-----------------------------------------------------------------------------------------------------------------------------------|
 
 <br>
@@ -45,14 +45,14 @@
 
 ## `>_` Propósito
 
-[cite_start]**FoodTracker** surge como respuesta a la problemática de los malos hábitos alimenticios en entornos estudiantiles, donde predomina el consumo de comida chatarra debido a la falta de tiempo y conocimiento.
+**FoodTracker** surge como respuesta a la problemática de los malos hábitos alimenticios en entornos estudiantiles, donde predomina el consumo de comida chatarra debido a la falta de tiempo y conocimiento.
 
-[cite_start]Esta aplicación no es solo una calculadora; es una **herramienta educativa integral** que permite al usuario monitorear su estado de salud y aprender sobre nutrición de manera interactiva[cite: 7].
+Esta aplicación no es solo una calculadora; es una **herramienta educativa integral** que permite al usuario monitorear su estado de salud y aprender sobre nutrición de manera interactiva.
 
 **Objetivos Clave:**
-- [cite_start]**Concientización:** Informar sobre el valor nutricional de los alimentos[cite: 27].
-- [cite_start]**Control:** Monitoreo del Índice de Masa Corporal (IMC)[cite: 28].
-- [cite_start]**Prevención:** Reducir riesgos de obesidad y enfermedades crónicas mediante la tecnología[cite: 6].
+- **Concientización:** Informar sobre el valor nutricional de los alimentos.
+- **Control:** Monitoreo del Índice de Masa Corporal (IMC).
+- **Prevención:** Reducir riesgos de obesidad y enfermedades crónicas mediante la tecnología.
 
 ---
 
@@ -93,10 +93,10 @@ Diseño intuitivo desarrollado en Android Studio con enfoque en la experiencia d
 
 ## `>_` Características
 
-- [cite_start]**🔐 Autenticación en la Nube:** Sistema de Registro e Inicio de Sesión seguro gestionado por **Firebase**.
-- [cite_start]**📊 Calculadora de IMC:** Algoritmo que determina el estado de peso (Bajo, Normal, Sobrepeso) basado en inputs del usuario[cite: 27].
+- **🔐 Autenticación en la Nube:** Sistema de Registro e Inicio de Sesión seguro gestionado por **Firebase**.
+- **📊 Calculadora de IMC:** Algoritmo que determina el estado de peso (Bajo, Normal, Sobrepeso) basado en inputs del usuario.
 - **🥗 Recomendaciones:** Tips personalizados según el resultado del IMC para mejorar la dieta.
-- [cite_start]**📚 Contenido Educativo:** Módulos informativos sobre el "Plato del Buen Comer" y propiedades de los alimentos[cite: 28].
+- **📚 Contenido Educativo:** Módulos informativos sobre el "Plato del Buen Comer" y propiedades de los alimentos.
 - **⚡ Interfaz Nativa:** Rendimiento fluido utilizando Kotlin y XML.
 
 ---
@@ -108,7 +108,7 @@ El desarrollo se fundamenta en tecnologías móviles modernas para garantizar es
 | Componente | Tecnología | Uso en el Proyecto |
 | :--- | :--- | :--- |
 | **Lenguaje** | **Kotlin** | Lógica de negocio y control de actividades. |
-| **IDE** | **Android Studio** | [cite_start]Entorno de desarrollo integrado[cite: 95]. |
+| **IDE** | **Android Studio** | Entorno de desarrollo integrado. |
 | **Backend** | **Firebase** | Gestión de usuarios (Auth) y base de datos en tiempo real. |
 | **UI/UX** | **XML** | Diseño de interfaces responsivas y accesibles. |
 
@@ -116,13 +116,13 @@ El desarrollo se fundamenta en tecnologías móviles modernas para garantizar es
 
 ## `>_` Metodología
 
-[cite_start]Para asegurar la calidad educativa y técnica, se implementó el modelo **ADDIE**:
+Para asegurar la calidad educativa y técnica, se implementó el modelo **ADDIE**:
 
-1.  [cite_start]**Análisis:** Identificación de necesidades nutricionales en estudiantes[cite: 83].
-2.  [cite_start]**Diseño:** Prototipado de interfaces y flujo de usuario[cite: 84].
-3.  [cite_start]**Desarrollo:** Codificación en Kotlin e integración de servicios[cite: 85].
-4.  [cite_start]**Implementación:** Despliegue y pruebas en dispositivos reales[cite: 86].
-5.  [cite_start]**Evaluación:** Validación funcional y corrección de errores[cite: 87].
+1.  **Análisis:** Identificación de necesidades nutricionales en estudiantes.
+2.  **Diseño:** Prototipado de interfaces y flujo de usuario.
+3.  **Desarrollo:** Codificación en Kotlin e integración de servicios.
+4.  **Implementación:** Despliegue y pruebas en dispositivos reales.
+5.  **Evaluación:** Validación funcional y corrección de errores.
 
 ---
 
@@ -144,9 +144,9 @@ Si deseas clonar y ejecutar este proyecto educativo:
 
 ## `>_` Créditos
 
-- [cite_start]👨‍💻 **Desarrollador Principal:** David Platas [cite: 2]
-- [cite_start]👥 **Equipo de Investigación:** Jesús Ramírez, Dayana Ortiz, Yara Díaz[cite: 2].
-- [cite_start]🎓 **Institución:** Universidad Politécnica del Valle de México[cite: 4].
+- 👨‍💻 **Desarrollador Principal:** David Platas
+- 👥 **Equipo de Investigación:** Jesús Ramírez, Dayana Ortiz, Yara Díaz.
+- 🎓 **Institución:** Universidad Politécnica del Valle de México.
 
 <div align="center">
   <a href="https://github.com/DeathSilencer">
